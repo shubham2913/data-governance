@@ -1,3 +1,7 @@
 Total,int,required
-Date,string,required
 Currency,string,required
+Date,string,required
+qualifiedName,string,required
+name,string,required
+description,string,optional
+owner,string,optional
