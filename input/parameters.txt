@@ -1,0 +1,3 @@
+Total,int,required
+Date,string,required
+Currency,string,required
